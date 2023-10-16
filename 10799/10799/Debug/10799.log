@@ -1,0 +1,5 @@
+﻿  10799.cpp
+C:\Users\4_da_\Desktop\BOJ\10799\10799\10799.cpp(16,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\4_da_\Desktop\BOJ\10799\10799\10799.cpp(9,6): warning C4101: 'laser' :참조되지 않은 지역 변수입니다.
+C:\Users\4_da_\Desktop\BOJ\10799\10799\10799.cpp(10,6): warning C4101: 'piece' :참조되지 않은 지역 변수입니다.
+  10799.vcxproj -> C:\Users\4_da_\Desktop\BOJ\10799\Debug\10799.exe
