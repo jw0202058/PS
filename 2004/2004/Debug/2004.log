@@ -1,0 +1,8 @@
+﻿  2004.cpp
+C:\Users\4_da_\Desktop\BOJ\2004\2004\2004.cpp(23,18): warning C4244: '+=': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\4_da_\Desktop\BOJ\2004\2004\2004.cpp(26,18): warning C4244: '+=': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\4_da_\Desktop\BOJ\2004\2004\2004.cpp(29,18): warning C4244: '+=': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\4_da_\Desktop\BOJ\2004\2004\2004.cpp(33,17): warning C4244: '+=': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\4_da_\Desktop\BOJ\2004\2004\2004.cpp(36,17): warning C4244: '+=': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\4_da_\Desktop\BOJ\2004\2004\2004.cpp(39,17): warning C4244: '+=': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  2004.vcxproj -> C:\Users\4_da_\Desktop\BOJ\2004\Debug\2004.exe
